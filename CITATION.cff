@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work in your research, please cite it as below."
+authors:
+  - family-names: Bayrami
+    given-names: Farhad
+    email: farhad.bayrami@studio.unibo.it
+    affiliation: University of Bologna
+  - family-names: Molla
+    given-names: Mahmut Kaan
+    affiliation: University of Bologna
+title: "Social Network Analysis of Reddit Subreddit Hyperlink Network"
+version: 1.0.0
+date-released: 2024-08-01
+url: "https://github.com/FarhadBayrami/social-network-analysis-reddit"
+license: MIT
+keywords:
+  - social network analysis
+  - Reddit
+  - graph theory
+  - community detection
+  - Louvain
+  - NetworkX
+  - Gephi
+  - centrality
