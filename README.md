@@ -159,13 +159,14 @@ pip install -r requirements.txt
 ---
 
 ## 📁 Project Structure
-📦 social-network-analysis-reddit
-┣ 📄 SNA_Report.pdf       ← Full report: methodology, results, visualisations
-┣ 📄 requirements.txt     ← Python dependencies
-┣ 📄 LICENSE              ← MIT License
-┣ 📄 CITATION.cff         ← How to cite this work
-┗ 📝 README.md
----
+
+| File | Description |
+|------|-------------|
+| `SNA_Report.pdf` | Full report: methodology, results, visualisations |
+| `requirements.txt` | Python dependencies |
+| `LICENSE` | MIT License |
+| `CITATION.cff` | How to cite this work |
+| `README.md` | Project documentation |
 
 ## 🔮 Future Work
 
