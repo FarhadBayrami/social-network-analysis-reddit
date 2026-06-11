@@ -105,21 +105,31 @@ The analysis focuses on the **Largest Strongly Connected Component (SCC)** to en
 ---
 
 ## 📈 Network Statistics
-Full Network
-├── Nodes:  55,863
-├── Edges:  858,490
-└── Type:   Directed, signed, temporal (2014–2017)
-Largest SCC (analysed subset)
-├── Nodes:  11,564
-├── Edges:  98,166
-├── Avg degree:  17
-└── Global clustering coeff: 0.0711
-Community Structure
-├── Communities:  23
-├── Largest:      2,754 nodes
-└── Key hubs:     r/askreddit, r/iama, r/subredditdrama
----
 
+**Full Network**
+
+| Property | Value |
+|----------|-------|
+| Nodes | 55,863 subreddits |
+| Edges | 858,490 hyperlinks |
+| Type | Directed, signed, temporal (2014–2017) |
+
+**Largest SCC (analysed subset)**
+
+| Property | Value |
+|----------|-------|
+| Nodes | 11,564 |
+| Edges | 98,166 |
+| Avg degree | 17 |
+| Global clustering coeff | 0.0711 |
+
+**Community Structure**
+
+| Property | Value |
+|----------|-------|
+| Communities | 23 |
+| Largest community | 2,754 nodes |
+| Key hubs | r/askreddit, r/iama, r/subredditdrama |
 ## 🚀 Getting Started
 
 ### Prerequisites
